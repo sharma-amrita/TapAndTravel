@@ -11,6 +11,6 @@ MAKE SURE IF ANY THE PORTS IS NOT ALREADY IN USE.<br>
 THEN AFTER RUNNING THE APACHE SERVER FROM THE XAMPP TERMINAL OPEN CHROME OR ANY BROWSER.<br>
 GO TO http://localhost/tour_travel/ TO ACCESS THE WEBSITE.<br>
 GO TO http://localhost/tour_travel/admin TO ACCESS THE ADMIN PANNEL OF THE WEBSITE.<br>
-USER NAME: sharma81amrita@gmail.com 
+USER NAME: sharma81amrita@gmail.com <br>
 PASSWORD: Lovetheflow@9 <br>
 HOPE YOU LIKE THE PROJECT. THANK YOU. HAPPY TRAVELSSSSS!!!!!!!!!!!!!!!!!!!!..
